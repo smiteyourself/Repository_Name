@@ -1,0 +1,10 @@
+application.viber-bot:
+ auth-token: "481ac87e7fe7d15c-3b253515b639015-489cabb0d649c67f"
+ webhook-url: "https://roam-application.herokuapp.com"
+ name: "RoamBot"
+ avatar: "https://images.pexels.com/photos/761/night-dark-moon-slice.jpg?auto=compress&cs=tinysrgb&h=350"
+
+logging:
+  level:
+    root: DEBUG
+
